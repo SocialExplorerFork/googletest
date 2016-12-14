@@ -94,7 +94,7 @@ can read the PumpManual for details.
 
 Please do submit code. Here's what you need to do:
 
-  1. A submission should be a set of changes that addresses one issue in the [issue tracker](https://github.com/google/googletest/issues). Please don't mix more than one logical change per submittal, because it makes the history hard to follow. If you want to make a change that doesn't have a corresponding issue in the issue tracker, please create one.
+  1. A submission should be a set of changes that addresses one issue in the [issue tracker](https://github.com/SocialExplorerFork/googletest/issues). Please don't mix more than one logical change per submittal, because it makes the history hard to follow. If you want to make a change that doesn't have a corresponding issue in the issue tracker, please create one.
   1. Also, coordinate with team members that are listed on the issue in question. This ensures that work isn't being duplicated and communicating your plan early also generally leads to better patches.
   1. Ensure that your code adheres to the [Google Test source code style](#Coding_Style.md).
   1. Ensure that there are unit tests for your code.

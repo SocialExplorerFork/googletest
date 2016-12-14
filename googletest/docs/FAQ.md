@@ -1071,7 +1071,7 @@ some other resources you can use:
   1. ask it on [googletestframework@googlegroups.com](mailto:googletestframework@googlegroups.com) and someone will answer it (to prevent spam, we require you to join the [discussion group](http://groups.google.com/group/googletestframework) before you can post.).
 
 Please note that creating an issue in the
-[issue tracker](https://github.com/google/googletest/issues) is _not_
+[issue tracker](https://github.com/SocialExplorerFork/googletest/issues) is _not_
 a good way to get your answer, as it is monitored infrequently by a
 very small number of people.
 

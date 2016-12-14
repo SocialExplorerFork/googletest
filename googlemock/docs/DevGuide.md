@@ -15,7 +15,7 @@ All Google Mock source and pre-built packages are provided under the [New BSD Li
 ## The Google Mock Community ##
 
 The Google Mock community exists primarily through the [discussion group](http://groups.google.com/group/googlemock), the
-[issue tracker](https://github.com/google/googletest/issues) and, to a lesser extent, the [source control repository](../). You are definitely encouraged to contribute to the
+[issue tracker](https://github.com/SocialExplorerFork/googletest/issues) and, to a lesser extent, the [source control repository](../). You are definitely encouraged to contribute to the
 discussion and you can also help us to keep the effectiveness of the
 group high by following and promoting the guidelines listed here.
 

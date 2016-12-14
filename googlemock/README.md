@@ -84,7 +84,7 @@ you can also use it with [any C++ testing framework](googlemock/ForDummies.md#Us
 ### Requirements for End Users ###
 
 Google Mock is implemented on top of [Google Test](
-http://github.com/google/googletest/), and depends on it.
+http://github.com/SocialExplorerFork/googletest/), and depends on it.
 You must use the bundled version of Google Test when using Google Mock.
 
 You can also easily configure Google Mock to work with another testing
