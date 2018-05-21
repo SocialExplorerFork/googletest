@@ -22,7 +22,7 @@ accept your pull requests.
 ## Contributing A Patch
 
 1. Submit an issue describing your proposed change to the
-   [issue tracker](https://github.com/google/googletest).
+   [issue tracker](https://github.com/SocialExplorerFork/googletest).
 1. Please don't mix more than one logical change per submittal,
    because it makes the history hard to follow. If you want to make a
    change that doesn't have a corresponding issue in the issue

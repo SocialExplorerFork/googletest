@@ -169,7 +169,7 @@ improving Pump.
 
 ## Real Examples ##
 
-You can find real-world applications of Pump in [Google Test](https://github.com/google/googletest/tree/master/googletest) and [Google Mock](https://github.com/google/googletest/tree/master/googlemock). The source file `foo.h.pump` generates `foo.h`.
+You can find real-world applications of Pump in [Google Test](https://github.com/SocialExplorerFork/googletest/tree/master/googletest) and [Google Mock](https://github.com/SocialExplorerFork/googletest/tree/master/googlemock). The source file `foo.h.pump` generates `foo.h`.
 
 ## Tips ##
 
